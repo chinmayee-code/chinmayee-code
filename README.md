@@ -2,16 +2,21 @@
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="200">
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="230">
 
 
 ```javascript
 const India = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-Experienced:[ Full Stack , Android Dev ],
+  experienced:[ Full Stack , Android Dev ],
+  X:[Music,Sports, Code , Art],
   tools: [React, Redux, Next.js, Node.js , Js, Java, React Native],
   currentlyLearning: ["microservices", "event-driven", "design system pattern"],
+  passionate:{
+                "Building": "user-friendly applications",
+                "Engaging in": "Software evelopment",
+                      },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
