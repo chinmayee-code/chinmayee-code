@@ -20,7 +20,7 @@ const India = {
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
-<br><br>    
+<br>
 Looking for new opportunities to collaborate and contribute to Open-source.
 <br>
 
