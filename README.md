@@ -8,14 +8,14 @@
 ```javascript
 const India = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  experienced:[ Full Stack , Android Dev ],
-  X:[Music,Sports, Code , Art],
-  tools: [React, Redux, Next.js, Node.js , Js, Java, React Native],
-  currentlyLearning: ["microservices", "event-driven", "design system pattern"],
+  code: [Javascript, Typescript, HTML, CSS, Python, Java],
+  experienced:[ FullStack, Android Dev ],
+  X:[Music,Sports, Code , Writing,Reading],
+  tools: [React, Redux, Next.js, Node.js, Js, Java, React Native],
+  currently learning: ["microservices", "event-driven", "design system pattern"],
   passionate:{
                 "Building": "user-friendly applications",
-                "Engaging in": "Software evelopment",
+                "Engaging in": "Software development",
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
